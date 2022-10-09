@@ -1,1 +1,1 @@
-# quiz-individu-II
+# Praktikum-individu-II
